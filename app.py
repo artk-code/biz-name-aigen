@@ -103,7 +103,7 @@ def generate_name(idea, temperature):
 
 # The front end code starts here
 
-st.title("🚀 Startup Idea Generator")
+st.title("🎥 Startup Idea Generator")
 
 form = st.form(key="user_settings")
 with form:
